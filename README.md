@@ -5,10 +5,17 @@
 
 - 🔭 I’m currently working on Software Engineer [Freelancer](https://www.freelancer.com/u/heshansedvin001?sb=t)
 
+- 🌱 I’m currently learning **University of Moratuwa B.Sc. degree. horns**
+
 - 🔭 I’m currently working on Web Developer [Fiverr](https://www.fiverr.com/heshan_s_edvin?public_mode=true)
+
+- 💬 Ask me about **Shan**
+
+- 📫 How to reach me **heshansedvin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bmu73jjqltigdtmsrfopwza%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bmu73jjqltigdtmsrfopwza%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/heshansedvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heshansedvin" height="30" width="40" /></a>
 </p>
 
