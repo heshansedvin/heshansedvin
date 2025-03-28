@@ -21,3 +21,6 @@
 <a href="https://discord.gg/heshansedvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heshansedvin" height="30" width="40" /></a>
 </p>
 
+### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://github.com/heshansedvin"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=heshansedvin&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
